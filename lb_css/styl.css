@@ -1,0 +1,11 @@
+p{
+    color:red;
+    background-color: antiquewhite;
+    width: 50vw;
+    height: 50vh;
+}
+
+button:hover{
+    color: greenyellow;
+    
+}

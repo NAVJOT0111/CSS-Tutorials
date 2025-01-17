@@ -1,0 +1,18 @@
+.box{
+    background-color: aquamarine;
+    transform: translate(100px, 100px);
+    transform:translateX(10px) ;
+    transform: translateY(10px);
+    /* transform: rotate(-45deg); */
+    margin: 100px;
+    /* transform: scale(1,12);
+    transform: scaleX(2);
+    transform: scaleY(4); */
+
+    /* transform: skew(45deg); */
+
+    transform: matrix(100, 0 ,0 , 20, 100, 100);
+    /*transform: matrix(scaleX(), skewY(), skewX(), scaleY(), translateX(), translateY()) */
+}
+
+ 
